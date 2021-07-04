@@ -1,5 +1,7 @@
 # Dicoding Submission Bookshelf API
 
+This is a REST API project for the Dicoding Submission for Kelas Belajar Membuat Aplikasi Back-End untuk Pemula.
+
 ## How to use?
 
 ### 1. Clone this repository
